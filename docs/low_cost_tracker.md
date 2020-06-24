@@ -1,9 +1,9 @@
 # Low Cost Tracker
 
 ## Header 1
-contetn 
+content 
 ## Header 2
 content
 
-* [PDF Manual 1](/product1/dummy.pdf ':ignore')
-* [PDF Manual 2](../product2/dummy.pdf ':ignore')
+* [Demo PDF Manual 1 inside docs](https://github.com/magentabusiness/IoT-Solutions/blob/master/docs/product1/dummy.pdf ':ignore')
+* [Demo PDF Manual 2 outside docs](https://github.com/magentabusiness/IoT-Solutions/blob/master/product2/dummy.pdf ':ignore')
