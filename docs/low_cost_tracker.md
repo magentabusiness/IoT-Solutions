@@ -1,5 +1,5 @@
-# Low Cost Tracker
-
+# LowCost Tracker LITE
+<!-- test 
 ## Header 1
 content 
 ## Header 2
@@ -7,3 +7,7 @@ content
 
 * [Demo PDF Manual 1 inside docs](https://github.com/magentabusiness/IoT-Solutions/blob/master/docs/product1/dummy.pdf ':ignore')
 * [Demo PDF Manual 2 outside docs](https://github.com/magentabusiness/IoT-Solutions/blob/master/product2/dummy.pdf ':ignore')
+* [Demo PDF Manual 2 outside docs](https://github.com/magentabusiness/IoT-Solutions/blob/master/product2/dummy.pdf ':ignore')
+
+-->
+* [Benutzerhandbuch](LowCost_Tracker/LowCost_Tracker_LITE_Benutzerhandbuch.pdf ':ignore')  
